@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125345932330",
+    "project_id": "uzima-5d64a",
+    "storage_bucket": "uzima-5d64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125345932330:android:f11ed7107390622bb78f53",
+        "android_client_info": {
+          "package_name": "com.example.uzima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125345932330-kmunq8keian8ks7mv1jnsg5phsib5tl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzDftyL2sxLoTKfo8Za2vZ0a_IGUeUdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125345932330-kmunq8keian8ks7mv1jnsg5phsib5tl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
