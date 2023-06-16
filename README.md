@@ -6,12 +6,15 @@ Uzima App aims to be a comprehensive fitness and wellness companion, providing u
 
 
 examples of the graphical user interface
+
 onboarding screen
 
 
 
 
 ![image](https://github.com/ithau10/uzima/assets/107179973/5b64cb8f-aa70-4da4-b6db-bda92cbf1517)
+
+
 
 signup screen
 
@@ -20,6 +23,8 @@ signup screen
 
 
 ![image](https://github.com/ithau10/uzima/assets/107179973/38acb98b-bcba-47a5-afed-cf6f3129b303)
+
+
 diets page
 
 
@@ -28,6 +33,8 @@ diets page
 
 ![image](https://github.com/ithau10/uzima/assets/107179973/0f0830f9-a91a-46ec-9206-33ab98f5ae34)
 
+
+
 workout page 
 
 
@@ -35,6 +42,8 @@ workout page
 
 
 ![image](https://github.com/ithau10/uzima/assets/107179973/e0898e5f-58af-4a3b-80a2-409307d69ae7)
+
+
 settings page
 
 
